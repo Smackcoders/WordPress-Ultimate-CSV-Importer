@@ -97,6 +97,7 @@ Much improved User interface with most flexible jquery plugin features and boots
 * Post Format option added
 * Page template attribute feature
 * EShop Products import (included from V3.6.3)
+
 #### Power Import Features to Control your csv import ####
 * Post title, content and even excerpt 
 * Text, WYSIWYG/HTML, in line CSS in post content
@@ -182,7 +183,7 @@ Also you can follow the instructions as given here
 
 #### Installation ####
 
-* [Step By Step Installation with Snaps](http://www.wpultimatecsvimporter.com/documentation?utm_source=WpOrg&utm_medium=Readme&utm_campaign=ListingTraffic)
+* [Step By Step Installation with Snaps](https://www.wpultimatecsvimporter.com/documentation/all-import/user-guide/simple-step-by-step-user-guide/?utm_source=WpOrg&utm_medium=Readme&utm_campaign=ListingTraffic)
 
 
 #### Screenshots ####
@@ -209,7 +210,7 @@ php_value auto_append_file none
 
 This will solve your issue or get support from hosting if you dint have sufficient permission.
 
-[Click Here for More Details](http://www.wpultimatecsvimporter.com/documentation?utm_source=WpOrg&utm_medium=Readme&utm_campaign=ListingTraffic)
+[Click Here for More Details](https://www.wpultimatecsvimporter.com/documentation/all-import/user-guide/simple-step-by-step-user-guide/?utm_source=WpOrg&utm_medium=Readme&utm_campaign=ListingTraffic)
 
 #### Changelog ####
 
